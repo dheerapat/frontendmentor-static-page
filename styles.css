@@ -93,7 +93,7 @@ hr {
 }
 
 .button {
-    background-color: black;
+    background-color: hsl(5, 85%, 63%);
     border: none;
     color: white;
     padding: 15px 32px;
@@ -111,6 +111,14 @@ hr {
 }
 
 .article img {
-    width: 30%;
+    width: 150px;
     margin-right: 1em;
+}
+
+.gray {
+    color: hsl(233, 8%, 79%);
+}
+
+.darkgray {
+    color: hsl(236, 13%, 42%);
 }
